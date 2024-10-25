@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movie-search-omdb/static/css/main.37854452.css",
+    "main.js": "/movie-search-omdb/static/js/main.51cb41b4.js",
+    "static/js/453.8e9872ef.chunk.js": "/movie-search-omdb/static/js/453.8e9872ef.chunk.js",
+    "index.html": "/movie-search-omdb/index.html",
+    "main.37854452.css.map": "/movie-search-omdb/static/css/main.37854452.css.map",
+    "main.51cb41b4.js.map": "/movie-search-omdb/static/js/main.51cb41b4.js.map",
+    "453.8e9872ef.chunk.js.map": "/movie-search-omdb/static/js/453.8e9872ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37854452.css",
+    "static/js/main.51cb41b4.js"
+  ]
+}
