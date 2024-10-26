@@ -1,26 +1,18 @@
-**SHOPPING APPLICATION**
+**Movie Search Application**
 
-React Shopping Cart js using the FakeStore API to create an e-commerce experience. Users can see and browse all the products, filter by category, add to cart before checkout.
+A web application built with React.js that allows users to search for movies and view details such as title, overview, and ratings. This project demonstrates API integration, React component structuring, and a responsive UI using Bootstrap.
 
 Features
+- Search for movies by title
+- Display movie details including poster, release date, and genre
+- Responsive design for mobile and desktop
+  
+Tech Stack
+Frontend: React.js, HTML, CSS, JavaScript, Bootstrap
+API: Open Movie Database API (OMDb) - https://omdbapi.com/?s={title}&apikey={API_KEY}
+![Initial-page](https://github.com/ALEKHYAJUJJURI/Movie-Search-OMDB-API/blob/dc89ca97f3b4c3cca476a09859433d6a1c30a837/movie-search.jpg)
+![movies preview](https://github.com/ALEKHYAJUJJURI/Movie-Search-OMDB-API/blob/dc89ca97f3b4c3cca476a09859433d6a1c30a837/movie-search2.jpg)
 
-Product Display: Products are fetched from the FakeStore API and shown with attributes like name,price,category.
-
-Filter by Category: allows users to filter the products in a category
-
-Add to Cart: For each individual product, they add according "add to cart" button by which user can make a shopping basket.
-
-Cart Management: You can view the cart, remove the item and update quantity.
-
-Calculate Total Price: Calculate the total price based on cart contents.
-
-Order Placement: Order placement to simulate the confirmation after finalizing cart.
-
-
-![login page](https://github.com/ALEKHYAJUJJURI/Movie-Search-OMDB-API/blob/9076ec11b94fc665494f1e00044d9a513bc006a6/API-router-2.jpg)
-![initial page](https://github.com/ALEKHYAJUJJURI/Movie-Search-OMDB-API/blob/9076ec11b94fc665494f1e00044d9a513bc006a6/API-router-1.jpg)
-![products](https://github.com/ALEKHYAJUJJURI/Movie-Search-OMDB-API/blob/9076ec11b94fc665494f1e00044d9a513bc006a6/API-router-3.jpg)
-![product preview](https://github.com/ALEKHYAJUJJURI/Movie-Search-OMDB-API/blob/9076ec11b94fc665494f1e00044d9a513bc006a6/API-router-4.jpg)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
