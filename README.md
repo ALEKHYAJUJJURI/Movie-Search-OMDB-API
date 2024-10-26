@@ -17,7 +17,10 @@ Calculate Total Price: Calculate the total price based on cart contents.
 Order Placement: Order placement to simulate the confirmation after finalizing cart.
 
 
-![initial login page]()
+![login page](https://github.com/ALEKHYAJUJJURI/Movie-Search-OMDB-API/blob/9076ec11b94fc665494f1e00044d9a513bc006a6/API-router-2.jpg)
+![initial page](https://github.com/ALEKHYAJUJJURI/Movie-Search-OMDB-API/blob/9076ec11b94fc665494f1e00044d9a513bc006a6/API-router-1.jpg)
+![products](https://github.com/ALEKHYAJUJJURI/Movie-Search-OMDB-API/blob/9076ec11b94fc665494f1e00044d9a513bc006a6/API-router-3.jpg)
+![product preview](https://github.com/ALEKHYAJUJJURI/Movie-Search-OMDB-API/blob/9076ec11b94fc665494f1e00044d9a513bc006a6/API-router-4.jpg)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
