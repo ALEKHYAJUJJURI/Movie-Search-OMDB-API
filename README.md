@@ -1,3 +1,23 @@
+**SHOPPING APPLICATION**
+
+React Shopping Cart js using the FakeStore API to create an e-commerce experience. Users can see and browse all the products, filter by category, add to cart before checkout.
+
+Features
+
+Product Display: Products are fetched from the FakeStore API and shown with attributes like name,price,category.
+
+Filter by Category: allows users to filter the products in a category
+
+Add to Cart: For each individual product, they add according "add to cart" button by which user can make a shopping basket.
+
+Cart Management: You can view the cart, remove the item and update quantity.
+
+Calculate Total Price: Calculate the total price based on cart contents.
+
+Order Placement: Order placement to simulate the confirmation after finalizing cart.
+
+
+![initial login page]()
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
